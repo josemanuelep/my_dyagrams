@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T18:30:53.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="w31lZf7hYbUWQCfordz0" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-21T18:36:30.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VFtZtmptryC0U-H2Jetz" version="14.1.1" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="qvffc2qcnDFIXGGzzOqj-9" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Pipelines&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="160" width="350" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qvffc2qcnDFIXGGzzOqj-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;AWS&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Documentacion:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;https://git-scm.com/book/es/v2&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qvffc2qcnDFIXGGzzOqj-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;AWS&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Documentacion&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1800" y="160" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
@@ -42,6 +42,12 @@
       <root>
         <mxCell id="dvMPihn0DReouZ1j8ZHG-0" />
         <mxCell id="dvMPihn0DReouZ1j8ZHG-1" parent="dvMPihn0DReouZ1j8ZHG-0" />
+        <mxCell id="ZbU5Fs8OvhLTuVTiGujP-0" value="Repositorios de interes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="dvMPihn0DReouZ1j8ZHG-1">
+          <mxGeometry x="50" y="50" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbU5Fs8OvhLTuVTiGujP-3" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;https://github.com/dephraiim/awesome-developer-dictionary&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;https://github.com/commitizen-tools/commitizen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;https://github.com/kamranahmedse/developer-roadmap&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="dvMPihn0DReouZ1j8ZHG-1">
+          <mxGeometry x="50" y="150" width="290" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
