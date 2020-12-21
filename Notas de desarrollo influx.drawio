@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T18:36:39.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NBezf4Kz5Lzd0LyN57oL" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-21T18:36:42.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="f1ucmtOXGbFy6SVWFTlh" version="14.1.1" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="dvMPihn0DReouZ1j8ZHG-0" />
         <mxCell id="dvMPihn0DReouZ1j8ZHG-1" parent="dvMPihn0DReouZ1j8ZHG-0" />
         <mxCell id="ZbU5Fs8OvhLTuVTiGujP-0" value="Repositorios de interes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="dvMPihn0DReouZ1j8ZHG-1">
-          <mxGeometry x="50" y="50" width="290" height="60" as="geometry" />
+          <mxGeometry x="50" y="40" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZbU5Fs8OvhLTuVTiGujP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="dvMPihn0DReouZ1j8ZHG-1" source="ZbU5Fs8OvhLTuVTiGujP-3" target="ZbU5Fs8OvhLTuVTiGujP-0">
           <mxGeometry relative="1" as="geometry" />
