@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T18:24:35.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="o05FUXrJmriMGdo7zh_1" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-21T18:29:02.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9PVomC5vbhb17YxaBFHW" version="14.1.1" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
     <mxGraphModel dx="1730" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -21,6 +21,15 @@
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-4" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Angular PWA&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;https://medium.com/@mugan86/crear-una-pwa-sencilla-con-angular-8-884eacded0ce&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qvffc2qcnDFIXGGzzOqj-5" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Node JS&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qvffc2qcnDFIXGGzzOqj-7" value="Gihub" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvffc2qcnDFIXGGzzOqj-9" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Pipelines&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="350" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
