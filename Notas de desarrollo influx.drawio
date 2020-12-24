@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T12:49:32.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jFleXUFReo-aqqYLF_CG" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-24T15:12:17.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uoTaNHWQifOp-Y9JwjXV" version="14.1.1" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="1960" y="70" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Git y Github&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Documentacion:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;https://git-scm.com/book/es/v2&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="160" width="180" height="140" as="geometry" />
+          <mxGeometry x="50" y="170" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-4" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Angular PWA&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;https://medium.com/@mugan86/crear-una-pwa-sencilla-con-angular-8-884eacded0ce&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="160" width="410" height="140" as="geometry" />
+          <mxGeometry x="270" y="170" width="410" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-5" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Node JS&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="340" width="630" height="140" as="geometry" />
