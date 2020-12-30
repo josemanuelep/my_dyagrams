@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T01:11:07.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DWaJ7gTNXgUN6PWiuty1" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-30T01:11:11.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qhkncltKRfaVNaAuzmb-" version="14.1.1" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-7" value="Gihub" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="710" y="200" width="270" height="60" as="geometry" />
+          <mxGeometry x="710" y="252" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-9" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Pipelines&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="190" width="350" height="140" as="geometry" />
