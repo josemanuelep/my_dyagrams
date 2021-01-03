@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T22:16:54.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="B3JwpLfNR14HCGPlUkIB" version="14.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-03T22:17:00.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6QxkWejyv_FVuK5siV0E" version="14.1.8" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
     <mxGraphModel dx="782" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mBSHv5Fz7k-0G3hWtxlf" name="Key notes">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dvMPihn0DReouZ1j8ZHG-0" />
         <mxCell id="dvMPihn0DReouZ1j8ZHG-1" parent="dvMPihn0DReouZ1j8ZHG-0" />
@@ -68,23 +68,6 @@
         </mxCell>
         <mxCell id="ZbU5Fs8OvhLTuVTiGujP-3" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;https://github.com/dephraiim/awesome-developer-dictionary&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;https://github.com/commitizen-tools/commitizen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;https://github.com/kamranahmedse/developer-roadmap&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;https://github.com/topics/pwa&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="dvMPihn0DReouZ1j8ZHG-1" vertex="1">
           <mxGeometry x="50" y="150" width="420" height="120" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Et8wwQXUkmEHpQbS3O8O" name="Base de datos">
-    <mxGraphModel dx="782" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
-      <root>
-        <mxCell id="zIE92o1SZ5CFJ_vBocqw-0" />
-        <mxCell id="zIE92o1SZ5CFJ_vBocqw-1" parent="zIE92o1SZ5CFJ_vBocqw-0" />
-        <mxCell id="zIE92o1SZ5CFJ_vBocqw-2" value="Actividades por usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zIE92o1SZ5CFJ_vBocqw-1">
-          <mxGeometry x="400" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zIE92o1SZ5CFJ_vBocqw-3" value="usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zIE92o1SZ5CFJ_vBocqw-1">
-          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zIE92o1SZ5CFJ_vBocqw-4" value="actividades_experto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zIE92o1SZ5CFJ_vBocqw-1">
-          <mxGeometry x="640" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
