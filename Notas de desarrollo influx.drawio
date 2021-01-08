@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T20:07:05.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tN-TKfwUk-bcBMGa0V7v" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-08T20:07:08.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="WiIlAuB2L6XO0N2anG4d" version="14.1.8" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="270" y="230" width="410" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-5" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Node JS&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="390" width="650" height="140" as="geometry" />
+          <mxGeometry x="20" y="420" width="650" height="140" as="geometry" />
         </mxCell>
         <mxCell id="50Z6vVFojl8kK-PPwzyE-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qvffc2qcnDFIXGGzzOqj-7" target="GxBvIsNK3n5-PWfmjEQZ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
