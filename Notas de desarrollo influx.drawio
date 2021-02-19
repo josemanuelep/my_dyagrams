@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T01:12:21.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="sqckCRkTtrJQ6HoRi7QY" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T16:07:45.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0q7S_7tMGFEGY1nTzzRL" version="14.1.3" type="github" pages="2">
   <diagram id="YmT_-5XXrlfbfX3geV0W" name="Development roadmap">
-    <mxGraphModel dx="782" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-4" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Angular PWA&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;https://medium.com/@mugan86/crear-una-pwa-sencilla-con-angular-8-884eacded0ce&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="260" width="410" height="140" as="geometry" />
+          <mxGeometry x="240" y="250" width="410" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qvffc2qcnDFIXGGzzOqj-5" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Node JS&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Documentación:&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="420" width="650" height="140" as="geometry" />
